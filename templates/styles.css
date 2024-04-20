@@ -1,0 +1,68 @@
+html{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+}
+#main{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    width: 100%;
+    height: 20vh;
+}
+#createDeleteUsersMain{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    flex-direction: column;
+    width: 100%;
+    height: 20vh;
+}
+#createaccount{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+#tables{
+    background-color: darkgrey;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: row;
+}
+
+#homeMain{
+    display: flex;
+    background-color: darkgrey;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+#navtools{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%
+}
+#homebutton{
+    padding-right: 50px;
+}
+#createUserMain{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    width: 100%;
+    height: 20vh;
+}
+#createForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
